@@ -1,0 +1,11 @@
+.aboutauthor {
+  font-style: italic;
+}
+
+.lorem-pic {
+  margin: 10px;
+  border: 2px;
+  padding: 4px;
+  background-color: blue;
+  float: left;
+}
